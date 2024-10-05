@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/quinsberry/monkey-interpreter/internal/lexer"
-	"github.com/quinsberry/monkey-interpreter/internal/token"
+	"github.com/quinsberry/monkey-go/internal/lexer"
+	"github.com/quinsberry/monkey-go/internal/token"
 )
 
 const PROMPT = ">> "

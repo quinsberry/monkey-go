@@ -1,5 +1,5 @@
 build:
-	@go build -o bin/monkey cmd/monkey-interpreter/main.go
+	@go build -o bin/monkey cmd/monkey-go/main.go
 
 run: build
 	@./bin/monkey

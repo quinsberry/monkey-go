@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"github.com/quinsberry/monkey-interpreter/internal/ast"
-	"github.com/quinsberry/monkey-interpreter/internal/lexer"
-	"github.com/quinsberry/monkey-interpreter/internal/token"
+	"github.com/quinsberry/monkey-go/internal/ast"
+	"github.com/quinsberry/monkey-go/internal/lexer"
+	"github.com/quinsberry/monkey-go/internal/token"
 )
 
 type Parser struct {

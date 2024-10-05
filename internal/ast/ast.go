@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/quinsberry/monkey-interpreter/internal/token"
+import "github.com/quinsberry/monkey-go/internal/token"
 
 type Node interface {
 	TokenLiteral() string

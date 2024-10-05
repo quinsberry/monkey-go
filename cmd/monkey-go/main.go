@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/quinsberry/monkey-interpreter/internal/repl"
+	"github.com/quinsberry/monkey-go/internal/repl"
 )
 
 func main() {
